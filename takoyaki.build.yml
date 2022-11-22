@@ -5,5 +5,8 @@
 - binary_name: sfdfdfd
 - path: /
 - runs: 
+    - description: Random test
+        - command: pwd
+        
     - description: Build for production
         - command: cargo build --release
