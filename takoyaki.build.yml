@@ -1,0 +1,9 @@
+- name: github
+- version: 1.0.0
+- git_url: https://github.com/worldhellosdj/sfdfdfd.git
+- branch: main
+- binary_name: github
+- path: /
+- runs: 
+    - description: Build for production
+        - command: cargo build --release
