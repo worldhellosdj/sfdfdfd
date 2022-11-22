@@ -2,7 +2,7 @@
 - version: 1.0.0
 - git_url: https://github.com/worldhellosdj/sfdfdfd.git
 - branch: main
-- binary_name: github
+- binary_name: sfdfdfd
 - path: /
 - runs: 
     - description: Build for production
